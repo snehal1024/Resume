@@ -80,11 +80,6 @@
                             <span id="course-name">Programming Skills:</span>HTML, CSS, Python, JavaScript, learning C,Java
                             and C++
                         </li>
-                    </ul>
-                    </p>
-
-                    <p>
-                    <ul>
                         <li>
                             A young, determined hard and smart working person. I believe in task based roles and
                             complete ownership of work.
