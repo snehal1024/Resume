@@ -109,6 +109,6 @@
                         I hereby declare that the details furnished above are true and correct to the best of my
                         knowledge and belief.</p>
     </div>
-    <div id="footer"/>
+    <div id="footer">
 
 
