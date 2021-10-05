@@ -1,5 +1,5 @@
 # Resume
-<html>
+<!DOCTYPE html>
 
 <head>
 
@@ -88,10 +88,10 @@
                         <li>
                             A young, determined hard and smart working person. I believe in task based roles and
                             complete ownership of work.
+                        </li>
                         <li>
                             <span id="course-name">Languages Known:</span>English,Hindi,Marathi
-                        </li>
-                       
+                        </li>  
                     </ul>
                     </p>
                     <h3>Other Information</h3>
@@ -114,7 +114,7 @@
                         I hereby declare that the details furnished above are true and correct to the best of my
                         knowledge and belief.</p>
     </div>
-    <div id="footer"></div>
+    <div id="footer"/>
 
 </body>
 
